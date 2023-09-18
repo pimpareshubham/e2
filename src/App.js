@@ -1,10 +1,10 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route} from 'react-router-dom';
-import './Home.css';
+import './styles/Home.css';
 import './styles/Header.css';
 import './styles/Footer.css';
 import Home from './Home';
-import NotFound from './NotFound'; // You should create a NotFound component
+import NotFound from './NotFound';
 
 const App = () => {
   return (

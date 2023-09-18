@@ -38,23 +38,12 @@
   }
 }
 
-
-
-
-
-
-
 /* sm */
 @media (max-width : 600px) {
-
-
-
 
   .fc {
     margin-bottom: 5%;
   }
-
-
 
 
   .cimage {
@@ -69,13 +58,6 @@
     margin-top: 3%;
     text-align: center;
   }
-
-  
-
-
-
-
-
 
   .cover-image {
     height: 20vh;
@@ -132,7 +114,7 @@
   height: 40vh;
   width: auto;
   background-color: aqua;
-  background-image: url(./img/bg5.jpg);
+  background-image: url(../img/bg5.jpg);
   background-size: 100%;
   display: flex;
   color: yellow;
@@ -141,10 +123,6 @@
   justify-content: center;
 
 }
-
-
-
-
 
 /* lg */
 @media (min-width : 1410px) {
@@ -180,11 +158,6 @@
     margin-bottom: 5%;
   }
 
-
-
-
-
-
   .e-tl {
     margin-top: 190px;
     color: white;
@@ -203,7 +176,7 @@
     height: 80vh;
     width: auto;
     background-position: center;
-    background-image: url(./img/bg5.jpg);
+    background-image: url(../img/bg5.jpg);
     background-size: 100%;
     object-fit: cover;
     color: white;
@@ -215,9 +188,6 @@
 
 
   }
-
-
-
 
   .dropdown:hover .dropdown-menu {
     display: block;
@@ -284,15 +254,10 @@ a:link {
 /* md */
 @media (min-width: 600px) and (max-width:1049px) {
 
-
- 
-
   .cimage {
     height: 360px;
     width: 320px;
     padding: 1rem;
-    /* padding-left: 1rem;
-    padding-right: 1rem; */
   }
 
   .fc {
@@ -314,10 +279,6 @@ a:link {
     transition: box-shadow 0.5s ease;
   }
 
-  
-
-
-
 
   .e-tl {
     margin-top: 130px;
@@ -336,7 +297,7 @@ a:link {
     height: 60vh;
     width: auto;
     background-color: aqua;
-    background-image: url(./img/bg5.jpg);
+    background-image: url(../img/bg5.jpg);
     background-size: 100%;
     display: flex;
     color: yellow;
@@ -365,7 +326,7 @@ a:link {
     height: 60vh;
     width: auto;
     background-color: aqua;
-    background-image: url(./img/bg5.jpg);
+    background-image: url(../img/bg5.jpg);
     background-size: 100%;
     display: flex;
     color: yellow;
@@ -406,8 +367,6 @@ a:link {
 
 @media (min-width:991px) {
 
-
-  /*carousel*/
   .cimage {
     height: 380px;
     width: 360px;

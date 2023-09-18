@@ -36,7 +36,7 @@ const Slider = () => {
                 </div>
                 <div className="item fc">
                     <div className="card d-block" style={{ width: '18rem' }}>
-                        <img className='cimage' src={myImage2} alt="Slide 1" />
+                        <img className='cimage' src={myImage2} alt="Slide 2" />
                         <div className="card-body">
                             <h5 className="card-title">Product</h5>
                             <p className="card-text">
@@ -54,7 +54,7 @@ const Slider = () => {
                 </div>
                 <div className="item fc">
                     <div className="card d-block" style={{ width: '18rem' }}>
-                        <img className='cimage' src={myImage3} alt="Slide 1" />
+                        <img className='cimage' src={myImage3} alt="Slide 3" />
                         <div className="card-body">
                             <h5 className="card-title">Product</h5>
                             <p className="card-text">
@@ -72,7 +72,7 @@ const Slider = () => {
                 </div>
                 <div className="item fc">
                     <div className="card d-block" style={{ width: '18rem' }}>
-                        <img className='cimage' src={myImage4} alt="Slide 1" />
+                        <img className='cimage' src={myImage4} alt="Slide 4" />
                         <div className="card-body">
                             <h5 className="card-title">Product</h5>
                             <p className="card-text">
@@ -90,7 +90,7 @@ const Slider = () => {
                 </div>
                 <div className="item fc">
                     <div className="card d-block" style={{ width: '18rem' }}>
-                        <img className='cimage' src={myImage5} alt="Slide 1" />
+                        <img className='cimage' src={myImage5} alt="Slide 5" />
                         <div className="card-body">
                             <h5 className="card-title">Product</h5>
                             <p className="card-text">
@@ -108,7 +108,7 @@ const Slider = () => {
                 </div>
                 <div className="item fc">
                     <div className="card d-block" style={{ width: '18rem' }}>
-                        <img className='cimage' src={myImage6} alt="Slide 1" />
+                        <img className='cimage' src={myImage6} alt="Slide 6" />
                         <div className="card-body">
                             <h5 className="card-title">Product</h5>
                             <p className="card-text">
@@ -126,7 +126,7 @@ const Slider = () => {
                 </div>
                 <div className="item fc">
                     <div className="card d-block" style={{ width: '18rem' }}>
-                        <img className='cimage' src={myImage7} alt="Slide 1" />
+                        <img className='cimage' src={myImage7} alt="Slide 7" />
                         <div className="card-body">
                             <h5 className="card-title">Product</h5>
                             <p className="card-text">
@@ -144,7 +144,7 @@ const Slider = () => {
                 </div>
                 <div className="item fc">
                     <div className="card d-block" style={{ width: '18rem' }}>
-                        <img className='cimage' src={myImage8} alt="Slide 1" />
+                        <img className='cimage' src={myImage8} alt="Slide 8" />
                         <div className="card-body">
                             <h5 className="card-title">Product</h5>
                             <p className="card-text">
